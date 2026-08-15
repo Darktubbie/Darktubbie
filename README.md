@@ -4,7 +4,8 @@
 
 ### Minecraft Bedrock Modder • Programmer • Creator
 
-<img src="./assets/games/background.gif" width="100%" alt="Background">
+<img width="1024" height="361" alt="background" src="https://github.com/user-attachments/assets/af4ea78c-16c3-4863-b12a-756cfe89c38b" />
+
 
 
 </div>
@@ -212,6 +213,6 @@ Feel free to explore my repositories.
 
 <br>
 
-<img src="./assets/games/background.gif" width="100%" alt="Background">
+<img width="1024" height="361" alt="background" src="https://github.com/user-attachments/assets/af4ea78c-16c3-4863-b12a-756cfe89c38b" />
 
 </div>
